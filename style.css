@@ -5,3 +5,7 @@
   .hidden {
     display: none;
   }  
+
+.container{
+  max-width: 300px;
+}
